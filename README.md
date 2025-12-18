@@ -1,5 +1,3 @@
-# Hybrid-Network-Topology-Scilab
-Implementation of Hybrid Network Topology using Scilab and NARVAL toolbox
 # Hybrid Network Topology using Scilab
 
 This repository contains the implementation of a Hybrid Network Topology
